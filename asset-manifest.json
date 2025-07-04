@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.765b6029.css",
+    "main.js": "/static/js/main.21ca1711.js",
+    "static/js/488.ad438823.chunk.js": "/static/js/488.ad438823.chunk.js",
+    "static/media/banner_img.png": "/static/media/banner_img.535d744fe319b627928c.png",
+    "static/media/location.png": "/static/media/location.57b57977e0e7d7f3b2a5.png",
+    "static/media/facility_img.png": "/static/media/facility_img.d67dd3f0cf2cb5910624.png",
+    "static/media/card_three.png": "/static/media/card_three.f118b76cb9116c792d23.png",
+    "static/media/card_one.png": "/static/media/card_one.ffd09c9e5011a6104f34.png",
+    "static/media/forzerofor.png": "/static/media/forzerofor.8887c3d7479e59431b9c.png",
+    "static/media/card_two.png": "/static/media/card_two.6135a6a9a3efff6a2086.png",
+    "static/media/bac_creative.png": "/static/media/bac_creative.c2a89334c8fb6f96e14a.png",
+    "static/media/facility_background.png": "/static/media/facility_background.1412cc00e72ac7115cd8.png",
+    "static/media/building-big.jpg": "/static/media/building-big.280419d1252066513834.jpg",
+    "static/media/whatsapp_btn.png": "/static/media/whatsapp_btn.48bd248c6a7bf2e8a060.png",
+    "static/media/telegram_btn.png": "/static/media/telegram_btn.fc858c04ef854cc90d9a.png",
+    "static/media/hero_bg_img.png": "/static/media/hero_bg_img.2a80b663c4c8bcea19c9.png",
+    "static/media/form_background.png": "/static/media/form_background.0c506e1e0198545563ef.png",
+    "static/media/image_footer.png": "/static/media/image_footer.3709f2d27bbe947a0436.png",
+    "static/media/slider_img_1.jpg": "/static/media/slider_img_1.24a6e307e490bc71267a.jpg",
+    "index.html": "/index.html",
+    "main.765b6029.css.map": "/static/css/main.765b6029.css.map",
+    "main.21ca1711.js.map": "/static/js/main.21ca1711.js.map",
+    "488.ad438823.chunk.js.map": "/static/js/488.ad438823.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765b6029.css",
+    "static/js/main.21ca1711.js"
+  ]
+}
